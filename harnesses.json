@@ -12,28 +12,28 @@
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/claude-code-0.3.239+runtime.2-linux-x64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.239+runtime.2-linux-x64.tar.gz",
               "sha256": "da6d02bb58f682ad8c923344d45fb53987cf25d009aa41e7d68e8126060e40b2",
               "size": 104324947
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/claude-code-0.3.239+runtime.2-linux-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.239+runtime.2-linux-arm64.tar.gz",
               "sha256": "9c1c557e8ef33191ff64a37328c3c0cde030ece6312de4cf4989941298c708fb",
               "size": 103917266
             },
             {
               "platform": "darwin",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harness-dev/claude-code-0.3.239+runtime.2-darwin-x64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harness-dev/claude-code-0.3.239+runtime.2-darwin-x64.tar.gz",
               "sha256": "b042fd6abcac18df664a9e7b17f0651bcffd0cf6b8067528902f7118e00d9cc1",
               "size": 98320237
             },
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/claude-code-0.3.239+runtime.2-darwin-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.239+runtime.2-darwin-arm64.tar.gz",
               "sha256": "ecf603766af6d1f5ef0b4f74e92171b716a14d9feea1e439507b143cf2bc2cc1",
               "size": 94257647
             }
@@ -45,21 +45,21 @@
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/claude-code-0.3.259+runtime.2-darwin-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.259+runtime.2-darwin-arm64.tar.gz",
               "sha256": "992b015fb653f86055aa657f0fced10a0a9c469108d0919bc58284e9ebea8b74",
               "size": 88248974
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/claude-code-0.3.259+runtime.2-linux-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.259+runtime.2-linux-arm64.tar.gz",
               "sha256": "03b91976eacb8d3c69ad6b5763f948229d4db4103806964e38c0323f5bbf205a",
               "size": 98366632
             },
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/claude-code-0.3.259+runtime.2-linux-x64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.259+runtime.2-linux-x64.tar.gz",
               "sha256": "fe797361d1ef3b3fa6186adcf3d78477af96e8b72fe3e025d8cbe0958301b98f",
               "size": 97944481
             }
@@ -71,21 +71,21 @@
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/claude-code-0.3.259+runtime.2.dc10802f-linux-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.259+runtime.2.dc10802f-linux-arm64.tar.gz",
               "sha256": "5a5274b7de6c2e3faa3c3ec17153fcdd68b59aedc263ed5081e194d3d1c2d3cc",
               "size": 98366390
             },
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/claude-code-0.3.259+runtime.2.dc10802f-linux-x64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.259+runtime.2.dc10802f-linux-x64.tar.gz",
               "sha256": "a12a07ed0aeea9e01e02245b7b3cf356a80bf11bd84c24c620c75bec96ec9836",
               "size": 97944073
             },
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/claude-code-0.3.259+runtime.2.dc10802f-darwin-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.259+runtime.2.dc10802f-darwin-arm64.tar.gz",
               "sha256": "ace1219f095d1e2d7e8b4e339f2110f09fd71cd52626120b528510d84e3dfe07",
               "size": 88249241
             }
@@ -97,21 +97,21 @@
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/claude-code-0.3.259+runtime.2.58ad72da-darwin-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.259+runtime.2.58ad72da-darwin-arm64.tar.gz",
               "sha256": "4b26b8c7a40f708d634a4b38c06ae7f6db46b45f2633d94165ffddbfb1f6941c",
               "size": 88247248
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/claude-code-0.3.259+runtime.2.58ad72da-linux-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.259+runtime.2.58ad72da-linux-arm64.tar.gz",
               "sha256": "3b63e81446092ff01bcfb2bd5cbd0b34dd556cad9618deb5b03c9e0538a28283",
               "size": 98366236
             },
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/claude-code-0.3.259+runtime.2.58ad72da-linux-x64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.259+runtime.2.58ad72da-linux-x64.tar.gz",
               "sha256": "d7b405ff71fe344ea82ec72f936ad212e8e052ee5e2465b8742916b6fc0b1534",
               "size": 97944007
             }
@@ -123,21 +123,21 @@
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/claude-code-0.3.268+runtime.2.139ee9cc-linux-x64-0c0345425fc6ba199fbc1e963e07c5570b9bab7033131bdbe915355c6ecd31f5.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.268+runtime.2.139ee9cc-linux-x64-0c0345425fc6ba199fbc1e963e07c5570b9bab7033131bdbe915355c6ecd31f5.tar.gz",
               "sha256": "0c0345425fc6ba199fbc1e963e07c5570b9bab7033131bdbe915355c6ecd31f5",
               "size": 98947094
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/claude-code-0.3.268+runtime.2.139ee9cc-linux-arm64-0f7961de9665c841e9c3cd68db4ea2505bbe494f522295a939bae14e62feb5e4.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.268+runtime.2.139ee9cc-linux-arm64-0f7961de9665c841e9c3cd68db4ea2505bbe494f522295a939bae14e62feb5e4.tar.gz",
               "sha256": "0f7961de9665c841e9c3cd68db4ea2505bbe494f522295a939bae14e62feb5e4",
               "size": 99418086
             },
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/claude-code-0.3.268+runtime.2.139ee9cc-darwin-arm64-636963fc49f390e0573548f5725fe6d1588d9690bd552393c4f44bdfd0a63409.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.268+runtime.2.139ee9cc-darwin-arm64-636963fc49f390e0573548f5725fe6d1588d9690bd552393c4f44bdfd0a63409.tar.gz",
               "sha256": "636963fc49f390e0573548f5725fe6d1588d9690bd552393c4f44bdfd0a63409",
               "size": 89122528
             }
@@ -149,14 +149,14 @@
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/claude-code-0.3.280+runtime.2.8537ee1c-linux-arm64-fcbf7cbd33895f572b1cad238b1f173f651cc618234d034e55a0c4d567122d18.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.280+runtime.2.8537ee1c-linux-arm64-fcbf7cbd33895f572b1cad238b1f173f651cc618234d034e55a0c4d567122d18.tar.gz",
               "sha256": "fcbf7cbd33895f572b1cad238b1f173f651cc618234d034e55a0c4d567122d18",
               "size": 106104638
             },
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/claude-code-0.3.280+runtime.2.8537ee1c-linux-x64-2048c1b69415485fa7f0cde777469c84383f6554c3b7960344a973f63b77f1b4.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.280+runtime.2.8537ee1c-linux-x64-2048c1b69415485fa7f0cde777469c84383f6554c3b7960344a973f63b77f1b4.tar.gz",
               "sha256": "2048c1b69415485fa7f0cde777469c84383f6554c3b7960344a973f63b77f1b4",
               "size": 105828379
             }
@@ -176,28 +176,28 @@
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.149.0+runtime.2-linux-x64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.149.0+runtime.2-linux-x64.tar.gz",
               "sha256": "9f4d6fb55a1ae85c47519ba20c2a4de4fad8adb36ce7d0b1db22d4aa25c66359",
               "size": 101414788
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.149.0+runtime.2-linux-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.149.0+runtime.2-linux-arm64.tar.gz",
               "sha256": "217118b101a6162fbd4afb4af48ef11fda3123a28859129deb678065298d7ed3",
               "size": 95404991
             },
             {
               "platform": "darwin",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harness-dev/codex-0.149.0+runtime.2-darwin-x64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harness-dev/codex-0.149.0+runtime.2-darwin-x64.tar.gz",
               "sha256": "3a4d518a2665827e5e676fff55168499beec71ad16f04feec1b75784ace1778b",
               "size": 96560770
             },
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.149.0+runtime.2-darwin-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.149.0+runtime.2-darwin-arm64.tar.gz",
               "sha256": "f865e1ad54e4bcecac48c250352022f9c3ee4b45ab76219ee724fdb3bf99568d",
               "size": 91667134
             }
@@ -209,21 +209,21 @@
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.153.0+runtime.2-darwin-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.153.0+runtime.2-darwin-arm64.tar.gz",
               "sha256": "80fe68a3a94993f320cfe00d260e822ea37bd0e5e4f200d6be10c8c788ca0e31",
               "size": 90738664
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.153.0+runtime.2-linux-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.153.0+runtime.2-linux-arm64.tar.gz",
               "sha256": "cd481a4f718cdf9a3812d05396db684f54d21952d59c836bf7a4179f4908f7b8",
               "size": 94332888
             },
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.153.0+runtime.2-linux-x64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.153.0+runtime.2-linux-x64.tar.gz",
               "sha256": "1cabf3fe561207be7187722739af57bf3dd85acd5c43635812706b2fc4941fbb",
               "size": 100436150
             }
@@ -235,21 +235,21 @@
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.153.0+runtime.2.dfcbeb43-linux-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.153.0+runtime.2.dfcbeb43-linux-arm64.tar.gz",
               "sha256": "d208714583580f4bb0d4ce6df791779d348c9cfdaaa7dc7998059c5f63959794",
               "size": 122166706
             },
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.153.0+runtime.2.dfcbeb43-linux-x64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.153.0+runtime.2.dfcbeb43-linux-x64.tar.gz",
               "sha256": "7f6c5e2059e7b6e3bf4d26a0a947ff25e0d289dc601f3ccc8e9f0d9e0feda544",
               "size": 129804497
             },
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.153.0+runtime.2.dfcbeb43-darwin-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.153.0+runtime.2.dfcbeb43-darwin-arm64.tar.gz",
               "sha256": "78a41ee82aa4f361c4bc59d41833bb9c8f102c3476ea7b3c15970cf3cc80e32c",
               "size": 116154183
             }
@@ -261,21 +261,21 @@
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.153.0+runtime.2.fb310b38-darwin-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.153.0+runtime.2.fb310b38-darwin-arm64.tar.gz",
               "sha256": "20c7920e277f245dce1c352050e712361ff9dee7dafa2368a6318cbff86139d1",
               "size": 116156031
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.153.0+runtime.2.fb310b38-linux-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.153.0+runtime.2.fb310b38-linux-arm64.tar.gz",
               "sha256": "2bbaf11a64518bda7497089b38305e244607c6e02eaead681180dee6bd8c28bd",
               "size": 122166238
             },
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.153.0+runtime.2.fb310b38-linux-x64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.153.0+runtime.2.fb310b38-linux-x64.tar.gz",
               "sha256": "bfd3b3c507126af8117b06881d8decbfff76144920cdef7e84bd3b8f4336fb7a",
               "size": 129804718
             }
@@ -287,21 +287,21 @@
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.154.0+runtime.2.fb310b38-linux-x64-f89ef6ac8d4b7d64f892149e8d6c5093294e3edc2c1f700f798a5fe9d0b8546f.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.154.0+runtime.2.fb310b38-linux-x64-f89ef6ac8d4b7d64f892149e8d6c5093294e3edc2c1f700f798a5fe9d0b8546f.tar.gz",
               "sha256": "f89ef6ac8d4b7d64f892149e8d6c5093294e3edc2c1f700f798a5fe9d0b8546f",
               "size": 130259948
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.154.0+runtime.2.fb310b38-linux-arm64-ef83d2eca4d997ac847bb7b3698dd4d50fdda7d173740f32abdeb4f07785f266.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.154.0+runtime.2.fb310b38-linux-arm64-ef83d2eca4d997ac847bb7b3698dd4d50fdda7d173740f32abdeb4f07785f266.tar.gz",
               "sha256": "ef83d2eca4d997ac847bb7b3698dd4d50fdda7d173740f32abdeb4f07785f266",
               "size": 123128869
             },
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.154.0+runtime.2.fb310b38-darwin-arm64-655ce46ac8880ff1d0fce23239ce60ada48f75ed0cda6538a93ea1d2aa0635b8.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.154.0+runtime.2.fb310b38-darwin-arm64-655ce46ac8880ff1d0fce23239ce60ada48f75ed0cda6538a93ea1d2aa0635b8.tar.gz",
               "sha256": "655ce46ac8880ff1d0fce23239ce60ada48f75ed0cda6538a93ea1d2aa0635b8",
               "size": 117045162
             }
@@ -313,14 +313,14 @@
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.155.1+runtime.2.e53e131d-linux-arm64-5ab8323c10654ec947549a0b50e89f9077ff601d874f5b132231c7ba5614138d.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.155.1+runtime.2.e53e131d-linux-arm64-5ab8323c10654ec947549a0b50e89f9077ff601d874f5b132231c7ba5614138d.tar.gz",
               "sha256": "5ab8323c10654ec947549a0b50e89f9077ff601d874f5b132231c7ba5614138d",
               "size": 135680087
             },
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/codex-0.155.1+runtime.2.e53e131d-linux-x64-f1b2e6c006bc17f1907fbba6047b6fadafd253ad5568f1267ceb8f1b9404253f.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.155.1+runtime.2.e53e131d-linux-x64-f1b2e6c006bc17f1907fbba6047b6fadafd253ad5568f1267ceb8f1b9404253f.tar.gz",
               "sha256": "f1b2e6c006bc17f1907fbba6047b6fadafd253ad5568f1267ceb8f1b9404253f",
               "size": 142798643
             }
@@ -340,28 +340,28 @@
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.21+runtime.2-linux-x64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.21+runtime.2-linux-x64.tar.gz",
               "sha256": "112a891ef0008a8d5882f345a00f8cfb7f89baca17ed285aa6239c9da379d13a",
               "size": 61588791
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.21+runtime.2-linux-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.21+runtime.2-linux-arm64.tar.gz",
               "sha256": "b4f06adda0e6ba66e76c61261723e8092ab1059af3148675a4bf3a1f9db78d72",
               "size": 61991667
             },
             {
               "platform": "darwin",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harness-dev/opencode-1.18.21+runtime.2-darwin-x64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harness-dev/opencode-1.18.21+runtime.2-darwin-x64.tar.gz",
               "sha256": "dd3a0b24649e38e7a199685bca394bcf76bfef9cd290b3913f91a303d40b4652",
               "size": 48504461
             },
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.21+runtime.2-darwin-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.21+runtime.2-darwin-arm64.tar.gz",
               "sha256": "bbcb29e8927475e1c9eb60a2c52e1a4ba39bb06237ab4215774df17d68098f95",
               "size": 47240128
             }
@@ -373,21 +373,21 @@
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.27+runtime.2-darwin-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.27+runtime.2-darwin-arm64.tar.gz",
               "sha256": "6118be24127c02741d9fa50f614ea037770fa38c34d92df23c934e6cee08ba17",
               "size": 47262622
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.27+runtime.2-linux-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.27+runtime.2-linux-arm64.tar.gz",
               "sha256": "174a53375b8c093901151f7f6dac8cd3e4051e8719e75053a9feb22b44ca377f",
               "size": 62013918
             },
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.27+runtime.2-linux-x64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.27+runtime.2-linux-x64.tar.gz",
               "sha256": "5c57810bc12c3429806de909b09caf6a60474935cb9b1b44e423d1cc797b332f",
               "size": 61610732
             }
@@ -399,21 +399,21 @@
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.27+runtime.2.89c2ec70-linux-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.27+runtime.2.89c2ec70-linux-arm64.tar.gz",
               "sha256": "64808c1d6bab4fcd4be69d09812921456dadf0677ebbf7edb9e1fcf6a26f1430",
               "size": 62013499
             },
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.27+runtime.2.89c2ec70-linux-x64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.27+runtime.2.89c2ec70-linux-x64.tar.gz",
               "sha256": "1608d1af8d54c179763e1ce0341728517c4d5eef4b6ec63717c2156ad7083875",
               "size": 61610256
             },
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.27+runtime.2.89c2ec70-darwin-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.27+runtime.2.89c2ec70-darwin-arm64.tar.gz",
               "sha256": "5eeb6bafbc655fa52b7f14ca0584daa6aff5de318866ee671b4386964aa7d09a",
               "size": 47262159
             }
@@ -425,21 +425,21 @@
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.27+runtime.2.c5774d87-darwin-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.27+runtime.2.c5774d87-darwin-arm64.tar.gz",
               "sha256": "f4747e083db587340103bfc8f3420ee5130eef677aa314da61674a4c0b14bae9",
               "size": 47265453
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.27+runtime.2.c5774d87-linux-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.27+runtime.2.c5774d87-linux-arm64.tar.gz",
               "sha256": "aa1a6eb2640a24d90d3bc6a94506049a2cd75062a289f122fe3a1e2d1c080a51",
               "size": 62020446
             },
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.27+runtime.2.c5774d87-linux-x64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.27+runtime.2.c5774d87-linux-x64.tar.gz",
               "sha256": "584af285f2c8be7fb39f6d3742866a6620ddb679f4347a1eed3d8efeb397fdb8",
               "size": 61614744
             }
@@ -451,21 +451,21 @@
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.30+runtime.2.44e83cd8-linux-x64-7a534855e6e08f8be922cccfcee6bf0ac35afd0161726677f0890a29d674c228.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.30+runtime.2.44e83cd8-linux-x64-7a534855e6e08f8be922cccfcee6bf0ac35afd0161726677f0890a29d674c228.tar.gz",
               "sha256": "7a534855e6e08f8be922cccfcee6bf0ac35afd0161726677f0890a29d674c228",
               "size": 61648170
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.30+runtime.2.44e83cd8-linux-arm64-482ac6a0cf0d36679fcf371b613f3b9d303a87a2ad252c251eaf8e918a6a1447.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.30+runtime.2.44e83cd8-linux-arm64-482ac6a0cf0d36679fcf371b613f3b9d303a87a2ad252c251eaf8e918a6a1447.tar.gz",
               "sha256": "482ac6a0cf0d36679fcf371b613f3b9d303a87a2ad252c251eaf8e918a6a1447",
               "size": 62061438
             },
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.30+runtime.2.44e83cd8-darwin-arm64-f3876ae59f45b9b0e96cf7597c1d58bae456a0a43578c513d0250050b60ea8b1.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.30+runtime.2.44e83cd8-darwin-arm64-f3876ae59f45b9b0e96cf7597c1d58bae456a0a43578c513d0250050b60ea8b1.tar.gz",
               "sha256": "f3876ae59f45b9b0e96cf7597c1d58bae456a0a43578c513d0250050b60ea8b1",
               "size": 47301979
             }
@@ -477,14 +477,14 @@
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.30+runtime.2.5a4f6bc3-linux-x64-77d72173908f371c7decfdfd258569d6c3388b42540bfea106299b5585d08289.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.30+runtime.2.5a4f6bc3-linux-x64-77d72173908f371c7decfdfd258569d6c3388b42540bfea106299b5585d08289.tar.gz",
               "sha256": "77d72173908f371c7decfdfd258569d6c3388b42540bfea106299b5585d08289",
               "size": 61648152
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.30+runtime.2.5a4f6bc3-linux-arm64-b83f22b40975f279d0af8d756ea2594b8761ebb44fe4a4563776720db919e6c7.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.30+runtime.2.5a4f6bc3-linux-arm64-b83f22b40975f279d0af8d756ea2594b8761ebb44fe4a4563776720db919e6c7.tar.gz",
               "sha256": "b83f22b40975f279d0af8d756ea2594b8761ebb44fe4a4563776720db919e6c7",
               "size": 62061686
             }
@@ -496,14 +496,14 @@
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.32+runtime.2.85ecb2c5-linux-arm64-45a8d8e1bf42d79b5645c617fad8bdba33ec132f896e97b20fef10cc0df9f5c4.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.32+runtime.2.85ecb2c5-linux-arm64-45a8d8e1bf42d79b5645c617fad8bdba33ec132f896e97b20fef10cc0df9f5c4.tar.gz",
               "sha256": "45a8d8e1bf42d79b5645c617fad8bdba33ec132f896e97b20fef10cc0df9f5c4",
               "size": 62119143
             },
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/opencode-1.18.32+runtime.2.85ecb2c5-linux-x64-3eb4a7c20fac21a3f6181d52e7c1b62c72734afc0be523ee9b02f71d116d49d9.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.32+runtime.2.85ecb2c5-linux-x64-3eb4a7c20fac21a3f6181d52e7c1b62c72734afc0be523ee9b02f71d116d49d9.tar.gz",
               "sha256": "3eb4a7c20fac21a3f6181d52e7c1b62c72734afc0be523ee9b02f71d116d49d9",
               "size": 61700445
             }
@@ -522,28 +522,28 @@
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.28+runtime.2-linux-x64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.28+runtime.2-linux-x64.tar.gz",
               "sha256": "546dc2e0e60c90b1d28d4eedf1386eee6d5298bbc0ea5ebae0174483bd19467d",
               "size": 8806575
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.28+runtime.2-linux-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.28+runtime.2-linux-arm64.tar.gz",
               "sha256": "04d71afa65832f823d17480bc57419e9988428feba7ace2d7b7b331eba85ba14",
               "size": 8524702
             },
             {
               "platform": "darwin",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harness-dev/cursor-1.0.28+runtime.2-darwin-x64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harness-dev/cursor-1.0.28+runtime.2-darwin-x64.tar.gz",
               "sha256": "e102680ce9351845724b565824115f23ff89cf4feae33f4990023eb0cd21c84f",
               "size": 7150782
             },
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.28+runtime.2-darwin-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.28+runtime.2-darwin-arm64.tar.gz",
               "sha256": "33637ea57fe7b9f4fd6a81bd99148e79a2972699358dd4f61532a81e45482f21",
               "size": 6833148
             }
@@ -555,21 +555,21 @@
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.30+runtime.2-darwin-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.30+runtime.2-darwin-arm64.tar.gz",
               "sha256": "c9f9fc3a22909e474ed504bad76d1a88497d5af5d3776493876017806ddd90ee",
               "size": 6682110
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.30+runtime.2-linux-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.30+runtime.2-linux-arm64.tar.gz",
               "sha256": "53fe5f89071af51336b96da45d59f5294a8639d29ca00ebeb280340b744ff15a",
               "size": 8391548
             },
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.30+runtime.2-linux-x64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.30+runtime.2-linux-x64.tar.gz",
               "sha256": "dcc7e0fb66ba73207347c61182c8a2232cae11823585ad572f69bdbcd4f0ebd1",
               "size": 8666081
             }
@@ -581,21 +581,21 @@
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.30+runtime.2.208cac66-linux-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.30+runtime.2.208cac66-linux-arm64.tar.gz",
               "sha256": "075db24a62197663f243e8a8f1e28c37978ed71ab68e2ca4f466341b81843363",
               "size": 8391208
             },
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.30+runtime.2.208cac66-linux-x64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.30+runtime.2.208cac66-linux-x64.tar.gz",
               "sha256": "70b0538771259f8ef13b1aba5d753b3f2d17fbe20f46802aef2acaf20edb26d9",
               "size": 8665848
             },
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.30+runtime.2.208cac66-darwin-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.30+runtime.2.208cac66-darwin-arm64.tar.gz",
               "sha256": "85cd2961a3401cccd9ea6f6ff7dd3eff9a39ff801c4805e26578f71f92ea2b15",
               "size": 6681815
             }
@@ -607,21 +607,21 @@
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.30+runtime.2.79e55db1-darwin-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.30+runtime.2.79e55db1-darwin-arm64.tar.gz",
               "sha256": "1554c0cfe86531fb8ced87fff5323681a86c9b2dbd2796429fe54698e8c5bb2f",
               "size": 7082203
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.30+runtime.2.79e55db1-linux-arm64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.30+runtime.2.79e55db1-linux-arm64.tar.gz",
               "sha256": "ce2a82b96de4658489f38f98bf1a4fd455a4a8e01d23b14c0b9400a503feeff6",
               "size": 8792538
             },
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.30+runtime.2.79e55db1-linux-x64.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.30+runtime.2.79e55db1-linux-x64.tar.gz",
               "sha256": "245794bd05f5ed84dbb95680aed499e983a24376de3861b83a47ee8c0deff590",
               "size": 9069467
             }
@@ -633,21 +633,21 @@
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.31+runtime.2.0ef060d7-linux-x64-54cea4e44c38f5e1364ddcea18d429b29aeb0ddda08a6d0015eba4d6dfa56cb5.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.31+runtime.2.0ef060d7-linux-x64-54cea4e44c38f5e1364ddcea18d429b29aeb0ddda08a6d0015eba4d6dfa56cb5.tar.gz",
               "sha256": "54cea4e44c38f5e1364ddcea18d429b29aeb0ddda08a6d0015eba4d6dfa56cb5",
               "size": 9091370
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.31+runtime.2.0ef060d7-linux-arm64-86c9d5750ea087d8b885a3de9bbb0a840ed4721de4ca9acab0753497fdf1b930.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.31+runtime.2.0ef060d7-linux-arm64-86c9d5750ea087d8b885a3de9bbb0a840ed4721de4ca9acab0753497fdf1b930.tar.gz",
               "sha256": "86c9d5750ea087d8b885a3de9bbb0a840ed4721de4ca9acab0753497fdf1b930",
               "size": 8816083
             },
             {
               "platform": "darwin",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.31+runtime.2.0ef060d7-darwin-arm64-06d834834fe2f66ac37084ffb4a5375e13626231d48f4845d6809cc86a64dcc9.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.31+runtime.2.0ef060d7-darwin-arm64-06d834834fe2f66ac37084ffb4a5375e13626231d48f4845d6809cc86a64dcc9.tar.gz",
               "sha256": "06d834834fe2f66ac37084ffb4a5375e13626231d48f4845d6809cc86a64dcc9",
               "size": 7107241
             }
@@ -659,14 +659,14 @@
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.31+runtime.2.f3eba9fd-linux-x64-6426bbc58c08168c8f3a43e728111953ce5ee29d81e9d110b63e8c1f258459a8.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.31+runtime.2.f3eba9fd-linux-x64-6426bbc58c08168c8f3a43e728111953ce5ee29d81e9d110b63e8c1f258459a8.tar.gz",
               "sha256": "6426bbc58c08168c8f3a43e728111953ce5ee29d81e9d110b63e8c1f258459a8",
               "size": 9091453
             },
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.31+runtime.2.f3eba9fd-linux-arm64-cbb5f179791dec7a6408cfa2e94c78cf8e7af1cca30228f577f4851cccc28c52.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.31+runtime.2.f3eba9fd-linux-arm64-cbb5f179791dec7a6408cfa2e94c78cf8e7af1cca30228f577f4851cccc28c52.tar.gz",
               "sha256": "cbb5f179791dec7a6408cfa2e94c78cf8e7af1cca30228f577f4851cccc28c52",
               "size": 8816222
             }
@@ -678,14 +678,14 @@
             {
               "platform": "linux",
               "arch": "arm64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.32+runtime.2.1167191c-linux-arm64-a885c9eebb43bfdbc73116f638a389d9117044270ca64d95f927cca285d5b0f6.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.32+runtime.2.1167191c-linux-arm64-a885c9eebb43bfdbc73116f638a389d9117044270ca64d95f927cca285d5b0f6.tar.gz",
               "sha256": "a885c9eebb43bfdbc73116f638a389d9117044270ca64d95f927cca285d5b0f6",
               "size": 8668487
             },
             {
               "platform": "linux",
               "arch": "x64",
-              "url": "https://github.com/sugatachcal/zolo-releases/releases/download/harnesses/cursor-1.0.32+runtime.2.1167191c-linux-x64-86931c4e5a62cb754812674a6822f097807262dc70d952cda77f4d59a6e727ec.tar.gz",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.32+runtime.2.1167191c-linux-x64-86931c4e5a62cb754812674a6822f097807262dc70d952cda77f4d59a6e727ec.tar.gz",
               "sha256": "86931c4e5a62cb754812674a6822f097807262dc70d952cda77f4d59a6e727ec",
               "size": 8940073
             }
