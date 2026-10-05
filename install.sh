@@ -17,6 +17,12 @@ case "$(uname -m)" in
   *) echo "Longwave supports x64 and arm64." >&2; exit 1 ;;
 esac
 
+# The desktop app is Apple Silicon only, and so are the releases for macOS.
+if [ "$PLATFORM" = darwin ] && [ "$ARCHITECTURE" = x64 ]; then
+  echo "Longwave supports Macs with Apple silicon; Intel Macs are not supported." >&2
+  exit 1
+fi
+
 VERSION=${LONGWAVE_VERSION:-}
 if [ -z "$VERSION" ]; then
   VERSION=$(curl -fsSL "https://api.github.com/repos/$REPOSITORY/releases?per_page=50" \
