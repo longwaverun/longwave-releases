@@ -4,7 +4,7 @@
     {
       "id": "claude-code",
       "displayName": "Claude Code",
-      "latestVersion": "0.3.288+runtime.2.bf0b0b78",
+      "latestVersion": "0.3.288+runtime.2.f9f94787",
       "releases": [
         {
           "version": "0.3.239+runtime.2",
@@ -213,6 +213,32 @@
               "size": 110685039
             }
           ]
+        },
+        {
+          "version": "0.3.288+runtime.2.f9f94787",
+          "assets": [
+            {
+              "platform": "darwin",
+              "arch": "arm64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.288+runtime.2.f9f94787-darwin-arm64-212bf31454014cfdbd32cf6d5f112a6c54b75851a116e23c3bb74e04d3c28c57.tar.gz",
+              "sha256": "212bf31454014cfdbd32cf6d5f112a6c54b75851a116e23c3bb74e04d3c28c57",
+              "size": 100876968
+            },
+            {
+              "platform": "linux",
+              "arch": "arm64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.288+runtime.2.f9f94787-linux-arm64-7acfdfc6bef559df91bad18828ed9a603a066e9c64faa52c753cf2a1717735e9.tar.gz",
+              "sha256": "7acfdfc6bef559df91bad18828ed9a603a066e9c64faa52c753cf2a1717735e9",
+              "size": 110961032
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.288+runtime.2.f9f94787-linux-x64-fde54276b2d64e68b9e6f997381c29d79adefdc643550c25d77dc874f002c5c3.tar.gz",
+              "sha256": "fde54276b2d64e68b9e6f997381c29d79adefdc643550c25d77dc874f002c5c3",
+              "size": 110688373
+            }
+          ]
         }
       ],
       "minimumVersion": "0.3.268+runtime.2.139ee9cc"
@@ -220,7 +246,7 @@
     {
       "id": "codex",
       "displayName": "Codex",
-      "latestVersion": "0.160.0+runtime.2.31dbcd7d",
+      "latestVersion": "0.160.0+runtime.2.7d1fe4c9",
       "releases": [
         {
           "version": "0.149.0+runtime.2",
@@ -429,6 +455,32 @@
               "size": 164063997
             }
           ]
+        },
+        {
+          "version": "0.160.0+runtime.2.7d1fe4c9",
+          "assets": [
+            {
+              "platform": "darwin",
+              "arch": "arm64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.160.0+runtime.2.7d1fe4c9-darwin-arm64-23a15ad283322a737d1fd8289691915630d07a78e08967408e0083290fb42533.tar.gz",
+              "sha256": "23a15ad283322a737d1fd8289691915630d07a78e08967408e0083290fb42533",
+              "size": 134938864
+            },
+            {
+              "platform": "linux",
+              "arch": "arm64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.160.0+runtime.2.7d1fe4c9-linux-arm64-159c9151800ec799e86652d1cac2b033e9652d46a03977b268bc3ecad2622229.tar.gz",
+              "sha256": "159c9151800ec799e86652d1cac2b033e9652d46a03977b268bc3ecad2622229",
+              "size": 156435663
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.160.0+runtime.2.7d1fe4c9-linux-x64-37a4ab0101316820ebd64ed9d3652ee20c7d20a1315c16214a0454d42377f2db.tar.gz",
+              "sha256": "37a4ab0101316820ebd64ed9d3652ee20c7d20a1315c16214a0454d42377f2db",
+              "size": 164068769
+            }
+          ]
         }
       ],
       "minimumVersion": "0.153.0+runtime.2.dfcbeb43"
@@ -436,7 +488,7 @@
     {
       "id": "opencode",
       "displayName": "OpenCode",
-      "latestVersion": "1.18.34+runtime.2.9403a980",
+      "latestVersion": "1.18.34+runtime.2.194f0648",
       "releases": [
         {
           "version": "1.18.21+runtime.2",
@@ -664,13 +716,39 @@
               "size": 61761215
             }
           ]
+        },
+        {
+          "version": "1.18.34+runtime.2.194f0648",
+          "assets": [
+            {
+              "platform": "darwin",
+              "arch": "arm64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.34+runtime.2.194f0648-darwin-arm64-32737b10c37a00874c1b895f1c165f4425d1b79cbbde658bce272b4894b51705.tar.gz",
+              "sha256": "32737b10c37a00874c1b895f1c165f4425d1b79cbbde658bce272b4894b51705",
+              "size": 46605983
+            },
+            {
+              "platform": "linux",
+              "arch": "arm64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.34+runtime.2.194f0648-linux-arm64-c373c3376573400aa9a7d056431c3ef72b4dbc490733020f23f4a0449bd62cfe.tar.gz",
+              "sha256": "c373c3376573400aa9a7d056431c3ef72b4dbc490733020f23f4a0449bd62cfe",
+              "size": 62172302
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.18.34+runtime.2.194f0648-linux-x64-a2499ac5f640d26c51322b191f6c89f71c09ca0ee02e020e13034f5b788884b6.tar.gz",
+              "sha256": "a2499ac5f640d26c51322b191f6c89f71c09ca0ee02e020e13034f5b788884b6",
+              "size": 61761689
+            }
+          ]
         }
       ]
     },
     {
       "id": "cursor",
       "displayName": "Cursor",
-      "latestVersion": "1.0.35+runtime.2.0bf119f4",
+      "latestVersion": "1.0.35+runtime.2.9a2e7847",
       "releases": [
         {
           "version": "1.0.28+runtime.2",
@@ -896,6 +974,32 @@
               "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.35+runtime.2.0bf119f4-linux-x64-d522ed5475584bd25333e8a958cd5b5cc55c5131b4d5f3eb9d6d3dfc415a1062.tar.gz",
               "sha256": "d522ed5475584bd25333e8a958cd5b5cc55c5131b4d5f3eb9d6d3dfc415a1062",
               "size": 8551424
+            }
+          ]
+        },
+        {
+          "version": "1.0.35+runtime.2.9a2e7847",
+          "assets": [
+            {
+              "platform": "darwin",
+              "arch": "arm64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.35+runtime.2.9a2e7847-darwin-arm64-ef17471d8ca20033b3236921f6bc8d0736653076c9374a47def29475f65acb72.tar.gz",
+              "sha256": "ef17471d8ca20033b3236921f6bc8d0736653076c9374a47def29475f65acb72",
+              "size": 6558028
+            },
+            {
+              "platform": "linux",
+              "arch": "arm64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.35+runtime.2.9a2e7847-linux-arm64-78de0cbcce62963cdab1742ee5d370a931e5660c835fea8e67267d3c090bbfbb.tar.gz",
+              "sha256": "78de0cbcce62963cdab1742ee5d370a931e5660c835fea8e67267d3c090bbfbb",
+              "size": 8270640
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.0.35+runtime.2.9a2e7847-linux-x64-8fe3e68f89a8da61ed50c4f75eeeade1c5e49b7ebcac26e0bf9e792a9448a410.tar.gz",
+              "sha256": "8fe3e68f89a8da61ed50c4f75eeeade1c5e49b7ebcac26e0bf9e792a9448a410",
+              "size": 8551708
             }
           ]
         }
