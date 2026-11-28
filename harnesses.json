@@ -4,7 +4,7 @@
     {
       "id": "claude-code",
       "displayName": "Claude Code",
-      "latestVersion": "0.3.330+runtime.3.5e78d65f",
+      "latestVersion": "0.3.330+runtime.3.0eb7e19e",
       "releases": [
         {
           "version": "0.3.239+runtime.2",
@@ -973,6 +973,39 @@
               "size": 179044004
             }
           ]
+        },
+        {
+          "version": "0.3.330+runtime.3.0eb7e19e",
+          "assets": [
+            {
+              "platform": "darwin",
+              "arch": "arm64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.330+runtime.3.0eb7e19e-darwin-arm64-a2eaaaf0dbc4d58fbaf937f10ee2e0839f27ac5d71171830d5788f6bd39ea7b1.tar.gz",
+              "sha256": "a2eaaaf0dbc4d58fbaf937f10ee2e0839f27ac5d71171830d5788f6bd39ea7b1",
+              "size": 165040793
+            },
+            {
+              "platform": "linux",
+              "arch": "arm64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.330+runtime.3.0eb7e19e-linux-arm64-05c30fe8b8d44d6ab47b6f67e2db0b87e5508f1bb8f24c131ca5037aec3bc49a.tar.gz",
+              "sha256": "05c30fe8b8d44d6ab47b6f67e2db0b87e5508f1bb8f24c131ca5037aec3bc49a",
+              "size": 176981595
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.330+runtime.3.0eb7e19e-linux-x64-a4d0474511725e931f8736ccd1aa187c1e9714208e5963874382ab9be30e400b.tar.gz",
+              "sha256": "a4d0474511725e931f8736ccd1aa187c1e9714208e5963874382ab9be30e400b",
+              "size": 176163839
+            },
+            {
+              "platform": "win32",
+              "arch": "x64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/claude-code-0.3.330+runtime.3.0eb7e19e-win32-x64-099c8267ca74d7bc5b5efb34af3a68bd30a355b527352c4929eb238d987b65f8.tar.gz",
+              "sha256": "099c8267ca74d7bc5b5efb34af3a68bd30a355b527352c4929eb238d987b65f8",
+              "size": 179044006
+            }
+          ]
         }
       ],
       "minimumVersion": "0.3.268+runtime.2.139ee9cc"
@@ -980,7 +1013,7 @@
     {
       "id": "codex",
       "displayName": "Codex",
-      "latestVersion": "0.171.0+runtime.3.97a09d4f",
+      "latestVersion": "0.171.0+runtime.3.88b471c0",
       "releases": [
         {
           "version": "0.149.0+runtime.2",
@@ -2001,6 +2034,39 @@
               "size": 194220845
             }
           ]
+        },
+        {
+          "version": "0.171.0+runtime.3.88b471c0",
+          "assets": [
+            {
+              "platform": "darwin",
+              "arch": "arm64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.171.0+runtime.3.88b471c0-darwin-arm64-f62f381642f4c7db479d285f7e5b6d47bf8117085625da29d937ebbec7cce510.tar.gz",
+              "sha256": "f62f381642f4c7db479d285f7e5b6d47bf8117085625da29d937ebbec7cce510",
+              "size": 158413480
+            },
+            {
+              "platform": "linux",
+              "arch": "arm64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.171.0+runtime.3.88b471c0-linux-arm64-89ee12b3782b6033cd23cd91f000f3bdcf1a602135af0e2dffa9fdcb65768579.tar.gz",
+              "sha256": "89ee12b3782b6033cd23cd91f000f3bdcf1a602135af0e2dffa9fdcb65768579",
+              "size": 177234244
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.171.0+runtime.3.88b471c0-linux-x64-337350a10eabcec0325ce3e1a576a6dccba83b7ecc0dd33979814f21ba292261.tar.gz",
+              "sha256": "337350a10eabcec0325ce3e1a576a6dccba83b7ecc0dd33979814f21ba292261",
+              "size": 172806480
+            },
+            {
+              "platform": "win32",
+              "arch": "x64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/codex-0.171.0+runtime.3.88b471c0-win32-x64-a57273ef8c3139ff30f524e34af1e220a15c7b1dd65e953379e9c969413029af.tar.gz",
+              "sha256": "a57273ef8c3139ff30f524e34af1e220a15c7b1dd65e953379e9c969413029af",
+              "size": 194220858
+            }
+          ]
         }
       ],
       "minimumVersion": "0.153.0+runtime.2.dfcbeb43"
@@ -2008,7 +2074,7 @@
     {
       "id": "opencode",
       "displayName": "OpenCode",
-      "latestVersion": "1.19.6+runtime.3.2a35fa8c",
+      "latestVersion": "1.19.6+runtime.3.7385a080",
       "releases": [
         {
           "version": "1.18.21+runtime.2",
@@ -2800,13 +2866,46 @@
               "size": 81647040
             }
           ]
+        },
+        {
+          "version": "1.19.6+runtime.3.7385a080",
+          "assets": [
+            {
+              "platform": "darwin",
+              "arch": "arm64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.19.6+runtime.3.7385a080-darwin-arm64-c4a7dd4018c35d8f4f5242b89562aaaa2bc7a9aac73ed812b0ecb869a8c9247c.tar.gz",
+              "sha256": "c4a7dd4018c35d8f4f5242b89562aaaa2bc7a9aac73ed812b0ecb869a8c9247c",
+              "size": 66106155
+            },
+            {
+              "platform": "linux",
+              "arch": "arm64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.19.6+runtime.3.7385a080-linux-arm64-aa8db3d6adf2b093fa228c64cf85f265ebfcc0af24da5014072e2b33e634c907.tar.gz",
+              "sha256": "aa8db3d6adf2b093fa228c64cf85f265ebfcc0af24da5014072e2b33e634c907",
+              "size": 80706301
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.19.6+runtime.3.7385a080-linux-x64-06d493b84c30020d9cd1d119cceadd9a59f5cfbabd960734a5545fbf236995a5.tar.gz",
+              "sha256": "06d493b84c30020d9cd1d119cceadd9a59f5cfbabd960734a5545fbf236995a5",
+              "size": 80886731
+            },
+            {
+              "platform": "win32",
+              "arch": "x64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/opencode-1.19.6+runtime.3.7385a080-win32-x64-67e0feab8843e58972b5e35ee6967c1f618c826787ad67dce8b035b6670c357f.tar.gz",
+              "sha256": "67e0feab8843e58972b5e35ee6967c1f618c826787ad67dce8b035b6670c357f",
+              "size": 81647044
+            }
+          ]
         }
       ]
     },
     {
       "id": "cursor",
       "displayName": "Cursor",
-      "latestVersion": "1.4.2+runtime.3.0b12cf3d",
+      "latestVersion": "1.4.2+runtime.3.e94f9890",
       "releases": [
         {
           "version": "1.0.28+runtime.2",
@@ -3631,6 +3730,39 @@
               "size": 7185413
             }
           ]
+        },
+        {
+          "version": "1.4.2+runtime.3.e94f9890",
+          "assets": [
+            {
+              "platform": "darwin",
+              "arch": "arm64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.4.2+runtime.3.e94f9890-darwin-arm64-c949b656c1170e2332cbb1bf9fe7b58a5eee78592cd8c6f3f10948dabeced6aa.tar.gz",
+              "sha256": "c949b656c1170e2332cbb1bf9fe7b58a5eee78592cd8c6f3f10948dabeced6aa",
+              "size": 6857400
+            },
+            {
+              "platform": "linux",
+              "arch": "arm64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.4.2+runtime.3.e94f9890-linux-arm64-7fe3fba4c4b69a34b849942b50a77856b2eae4935a42b15f6c7d8e9598f537a8.tar.gz",
+              "sha256": "7fe3fba4c4b69a34b849942b50a77856b2eae4935a42b15f6c7d8e9598f537a8",
+              "size": 8846937
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.4.2+runtime.3.e94f9890-linux-x64-2cd3ceb33cb346f81f94a870d5213a55f03215056d25d83a8368d5cddc134f02.tar.gz",
+              "sha256": "2cd3ceb33cb346f81f94a870d5213a55f03215056d25d83a8368d5cddc134f02",
+              "size": 9234884
+            },
+            {
+              "platform": "win32",
+              "arch": "x64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/cursor-1.4.2+runtime.3.e94f9890-win32-x64-a0ccb4bbfb437847dbd4cb748542df06376b3262c81680479263eb5c3426393a.tar.gz",
+              "sha256": "a0ccb4bbfb437847dbd4cb748542df06376b3262c81680479263eb5c3426393a",
+              "size": 7185809
+            }
+          ]
         }
       ],
       "minimumVersion": "1.0.35+runtime.2.c4e91ae4"
@@ -3638,7 +3770,7 @@
     {
       "id": "antigravity",
       "displayName": "Antigravity",
-      "latestVersion": "1.5.15+runtime.3.2f248d59",
+      "latestVersion": "1.5.15+runtime.3.adbb52f7",
       "releases": [
         {
           "version": "1.5.15+runtime.3.8c7fce1a",
@@ -3738,13 +3870,46 @@
               "size": 84914726
             }
           ]
+        },
+        {
+          "version": "1.5.15+runtime.3.adbb52f7",
+          "assets": [
+            {
+              "platform": "darwin",
+              "arch": "arm64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/antigravity-1.5.15+runtime.3.adbb52f7-darwin-arm64-440e51af3a72888d609ecaa426b257cb2e7cf8567d498c554ee2925168910e44.tar.gz",
+              "sha256": "440e51af3a72888d609ecaa426b257cb2e7cf8567d498c554ee2925168910e44",
+              "size": 87666403
+            },
+            {
+              "platform": "linux",
+              "arch": "arm64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/antigravity-1.5.15+runtime.3.adbb52f7-linux-arm64-0e6a8b0c609768f6b174f37639a119aff7c0553d6d15d931df8480ba25617582.tar.gz",
+              "sha256": "0e6a8b0c609768f6b174f37639a119aff7c0553d6d15d931df8480ba25617582",
+              "size": 93861876
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/antigravity-1.5.15+runtime.3.adbb52f7-linux-x64-9e71f23a63cd4793ac3cc78e95edb395f09150269487f34fedc72b812a4bddeb.tar.gz",
+              "sha256": "9e71f23a63cd4793ac3cc78e95edb395f09150269487f34fedc72b812a4bddeb",
+              "size": 102602555
+            },
+            {
+              "platform": "win32",
+              "arch": "x64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/antigravity-1.5.15+runtime.3.adbb52f7-win32-x64-81fb4f43258031e62809b87ae6b7babb11adba4bd198b9d4a9c5dea81bd051be.tar.gz",
+              "sha256": "81fb4f43258031e62809b87ae6b7babb11adba4bd198b9d4a9c5dea81bd051be",
+              "size": 84914728
+            }
+          ]
         }
       ]
     },
     {
       "id": "muse",
       "displayName": "Muse Code",
-      "latestVersion": "1.4.25+runtime.3.de142e0c",
+      "latestVersion": "1.4.25+runtime.3.00d39e9b",
       "releases": [
         {
           "version": "1.4.25+runtime.3.590ed7eb",
@@ -3842,6 +4007,39 @@
               "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/muse-1.4.25+runtime.3.de142e0c-win32-x64-a721d1af4615e3d1d490213de767b75c9797bc93439252530253c8d29fd02f70.tar.gz",
               "sha256": "a721d1af4615e3d1d490213de767b75c9797bc93439252530253c8d29fd02f70",
               "size": 130724216
+            }
+          ]
+        },
+        {
+          "version": "1.4.25+runtime.3.00d39e9b",
+          "assets": [
+            {
+              "platform": "darwin",
+              "arch": "arm64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/muse-1.4.25+runtime.3.00d39e9b-darwin-arm64-856fa1ca21b8a0523d9cf034483e297a84a20c98cf4c3c69080dd9f9b029c7bc.tar.gz",
+              "sha256": "856fa1ca21b8a0523d9cf034483e297a84a20c98cf4c3c69080dd9f9b029c7bc",
+              "size": 189232522
+            },
+            {
+              "platform": "linux",
+              "arch": "arm64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/muse-1.4.25+runtime.3.00d39e9b-linux-arm64-c31b003382e8cfb864a58e970756f3c912353d707f0538a898aaede1117c8148.tar.gz",
+              "sha256": "c31b003382e8cfb864a58e970756f3c912353d707f0538a898aaede1117c8148",
+              "size": 170757636
+            },
+            {
+              "platform": "linux",
+              "arch": "x64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/muse-1.4.25+runtime.3.00d39e9b-linux-x64-a8b21ab6d50f53a6815cc024017e71f9451a580b59f3f9f60be4638f4fe08edc.tar.gz",
+              "sha256": "a8b21ab6d50f53a6815cc024017e71f9451a580b59f3f9f60be4638f4fe08edc",
+              "size": 176763960
+            },
+            {
+              "platform": "win32",
+              "arch": "x64",
+              "url": "https://github.com/longwaverun/longwave-releases/releases/download/harnesses/muse-1.4.25+runtime.3.00d39e9b-win32-x64-d1ac8a5f6e1874f7fd742ece56d0c29c907f352ec806c0b546aec937d35c8870.tar.gz",
+              "sha256": "d1ac8a5f6e1874f7fd742ece56d0c29c907f352ec806c0b546aec937d35c8870",
+              "size": 130724174
             }
           ]
         }
